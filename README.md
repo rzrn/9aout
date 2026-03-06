@@ -43,3 +43,5 @@ Nothing works except `helloworld`’s, `echo`, `cat`, `time`, `syscall`, `sam -d
 * [plan9port](https://github.com/9fans/plan9port): port of Plan 9 libraries and utilities to Unix (more like [Cygwin](https://www.cygwin.com/)).
 
 * [Limbo](https://github.com/meme/limbo): abandoned (?) XNU emulator using SUD.
+
+* [Uglendix](https://sr.ht/~arusekk/uglendix/): user-mode Glendix (Plan9/Linux). The goal is to run unmodified Plan 9 binaries and to be compatible with a typical GNU/Linux installation.
